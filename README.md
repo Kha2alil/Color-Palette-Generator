@@ -6,7 +6,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, it allows you to quickly creat
 ---
 
 ## 🌐 Live Demo  
-👉 **[View the Project on GitHub Pages](https://kha2alil.github.io/color-palette-generator/)**  
+https://kha2alil.github.io/Color-Palette-Generator/
 
 ---
 
